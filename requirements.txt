@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+datasketch
+jellyfish
+sparse_dot_topn
